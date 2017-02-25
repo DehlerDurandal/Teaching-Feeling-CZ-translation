@@ -1,0 +1,14 @@
+{
+  "translate": {
+    "file": "RJ162718.json",
+    "macro": [ "name", "miyage" ],
+    "langs": [ "cz-CZ" ]
+  },
+  "update": {
+    "file": "",
+    "method": "nondefault",
+    "prune": false,
+    "langs": [ "cz-CZ" ],
+    "props": [ "text", "chara", "hint", "graphic", "eval", "branch"]
+  }
+}
