@@ -3,4 +3,4 @@
 
 DLSite- http://www.dlsite.com/ecchi-eng/work/=/product_id/RE162718.html
 
-Ray-Kbys Twitter- @Ray_Kbys
+Ray-Kbys Twitter- https://twitter.com/Ray_Kbys
